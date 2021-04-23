@@ -1,0 +1,6 @@
+[submodule "my-app"]
+	path = my-app
+	url = /home/kenny/Desktop/react-admin/my-app
+[submodule "test-admin"]
+	path = test-admin
+	url = /home/kenny/Desktop/react-admin/test-admin
